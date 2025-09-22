@@ -1,2 +1,2 @@
 # Estudos Python 
-Primeiro repositório versionado
+Primeiro repositório versionado do curso de Python
